@@ -1,0 +1,28 @@
+{
+  "name": "fixed-7-is-odd",
+  "version": "7.0.2",
+  "description": "checks if a given function is isIsIsIsIsIsOdd",
+  "keywords": [
+    "is",
+    "odd",
+    "is-odd"
+  ],
+  "homepage": "https://github.com/10xly/is-is-is-is-is-is-is-odd#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/is-is-is-is-is-is-is-odd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/is-is-is-is-is-is-is-odd.git"
+  },
+  "license": "LGPL-3.0-or-later",
+  "author": "fixed",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "6-is-odd": "^1.0.0"
+  }
+}
